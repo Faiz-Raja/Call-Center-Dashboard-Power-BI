@@ -70,10 +70,10 @@ Indicates potential dissatisfaction or service pain points that require attentio
 
 Top-performing centers by call volume:
 
-1. Los Angeles – 14K
-2. Baltimore – 11K
-3. Chicago – 5K
-4. Denver – 3K
+**1. Los Angeles –** 14K
+**2. Baltimore –** 11K
+**3. Chicago –** 5K
+**4. Denver –** 3K
 
 This indicates heavy reliance on West and East Coast centers. Capacity and support strategy may need balancing across regions.
 
