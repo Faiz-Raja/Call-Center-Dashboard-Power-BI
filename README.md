@@ -13,16 +13,16 @@ This is a Call Center Analytics Dashboard built in Power BI, leveraging a datase
 ---
 **1. How many calls are received each day?**
 
-Call volumes are fairly stable across the week, with:
+**Call volumes are fairly stable across the week, with:**
 
-• Peak days: Friday (5.6K) and Thursday (5.5K)
+• **Peak days:** Friday (5.6K) and Thursday (5.5K)
 
-• Lowest volumes: Sunday (4.3K)
+• **Lowest volumes:** Sunday (4.3K)
 
 ---
 **2. How does the number of calls vary by state?**
 
-The geographic heatmap reveals:
+**The geographic heatmap reveals:**
 
 **Key regions:** California, Texas, Florida, New York, Pennsylvania, Georgia, Virginia, Ohio and Illinois show the most activity.
 
@@ -55,7 +55,7 @@ High engagement on digital platforms shows the importance of maintaining seamles
 ---
 **5. What is the sentiment distribution of customer calls?**
 
-Calls are predominantly Negative (11.1K) or Neutral (8.8K).
+**Calls are predominantly Negative (11.1K) or Neutral (8.8K).**
 
 **Positive interactions are fewer:**
 
@@ -68,11 +68,14 @@ Indicates potential dissatisfaction or service pain points that require attentio
 ---
 **6. How do call volumes differ across various call centers?**
 
-Top-performing centers by call volume:
+**Top-performing centers by call volume:**
 
 **1. Los Angeles –** 14K
+
 **2. Baltimore –** 11K
+
 **3. Chicago –** 5K
+
 **4. Denver –** 3K
 
 This indicates heavy reliance on West and East Coast centers. Capacity and support strategy may need balancing across regions.
